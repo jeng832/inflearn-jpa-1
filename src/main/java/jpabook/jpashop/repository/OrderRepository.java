@@ -2,7 +2,6 @@ package jpabook.jpashop.repository;
 
 import jpabook.jpashop.domain.Order;
 import lombok.RequiredArgsConstructor;
-import org.graalvm.compiler.core.common.type.ArithmeticOpTable;
 import org.springframework.stereotype.Repository;
 import org.springframework.util.StringUtils;
 
